@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# I'm Abdorizak From Somalia
+# I'm Abdorizak From Somalia 🇸🇴
 ### learning and Practice 😇
 
 # About Me 😁
