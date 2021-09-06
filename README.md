@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 # I'm Abdorizak From Somalia
-### learning and Practice ✌️
+### learning and Practice 😇
 
-Here are some ideas to get you started:
-
+# About Me 😁
+___________————————————________________—————————_________________——————————————___________________—————————————————______________________——————————————————
 - 🔭 I’m currently working on ... Swift UIkit
 - 🌱 I’m currently learning ... Swift UIkit
 - 👯 I’m looking to collaborate on ... iOS Developers
