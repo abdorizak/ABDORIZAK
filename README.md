@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey%20I%27m%20X%27s%20MAN%F0%9F%8C%A9&animation=twinkling&fontSize=40)
 
 <h2 align="center">👋 Hello Prgrammers! I'm Abdorizak From Somalia 🇸🇴</h1>
+
+
 ### learning and Practice 😇
 
 # About Me 😁
