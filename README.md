@@ -7,6 +7,7 @@
 
 # About Me 😁
 ___________————————————________________—————————_________________——————————————___________________
+
 - 🔭 I’m currently working on ... Swift UIkit
 - 🌱 I’m currently learning ... Swift UIkit
 - 👯 I’m looking to collaborate on ... iOS Developers
@@ -15,3 +16,8 @@ ___________————————————________________—————�
 - 😄 NickName: ... [X Man](facebook.com/abdorizak3)
 - ⚡ Fun fact: ...
 -->
+Contact me: 😎
+<ul>
+  <li>[LinkedIn](https://www.linkedin.com/in/abdorizak-abdalla-6a221910a/)</li>
+  <li>[Instagram](https://instagram.com/abdorizak3)</li>
+ </ul>
