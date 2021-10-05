@@ -16,8 +16,9 @@ ___________————————————________________—————�
 - 😄 NickName: ... [X Man](facebook.com/abdorizak3)
 - ⚡ Fun fact: ...
 -->
-Contact me: 😎
-<ul>
-  <li>[LinkedIn] (https://www.linkedin.com/in/abdorizak-abdalla-6a221910a/)</li>
-  <li>[Instagram] (https://instagram.com/abdorizak3)</li>
- </ul>
+
+### Contact 📫
+You can find me on:
+* [Linkedin](https://www.linkedin.com/in/abdorizak-abdalla-6a221910a/)
+* [Email](mailto:cabdirizaaqyare12@gmail.com)
+* [Website](https://abdorizak.com)
