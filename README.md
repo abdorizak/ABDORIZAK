@@ -18,6 +18,6 @@ ___________————————————________________—————�
 -->
 Contact me: 😎
 <ul>
-  <li>[LinkedIn](https://www.linkedin.com/in/abdorizak-abdalla-6a221910a/)</li>
-  <li>[Instagram](https://instagram.com/abdorizak3)</li>
+  <li>[LinkedIn] (https://www.linkedin.com/in/abdorizak-abdalla-6a221910a/)</li>
+  <li>[Instagram] (https://instagram.com/abdorizak3)</li>
  </ul>
