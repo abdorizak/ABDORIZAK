@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey%20I%27m%20X%20MAN%F0%9F%8C%A9&animation=twinkling&fontSize=40)
 
-Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [ABDORIZAK!](https://www.abdorizak.com/) 🇸🇴
+# Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [ABDORIZAK!](https://www.abdorizak.com/) 🇸🇴
 
 ### learning and Practice 😇
 
