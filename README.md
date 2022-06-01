@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2320A121&lines=ABDORIZAK+AKA+XMAN)](https://git.io/typing-svg)
 
-# Hey <img src="https://github.com/abdorizak/ABDORIZAK/blob/main/Assets/Hi.gif" width="30px">, I'm [ABDORIZAK](https://www.abdorizak.com/) 🇸🇴
+# Hey <img src="https://github.com/abdorizak/ABDORIZAK/blob/main/Assets/Hi.gif" width="20px">, I'm [ABDORIZAK](https://www.abdorizak.com/) 🇸🇴
 
 ### learning and Practice 😇
 
