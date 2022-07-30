@@ -7,7 +7,7 @@
 
 # About Me 😁
 <p>I'm a iOS Engineer with a passion for developing apps. I’m a hard worker with good communication skills who works effectively in a team and has the ability to meet deadlines and able to work under stressful working environment, honest, friendly and highly motivated person with good productivity for the organization.</p>
-For more information you can find my websitet </br> <a href="https://abdorizak.com" target="_blank">Link🔗</a>
+<p>For more information you can find my websitet </br> <a href="https://abdorizak.com" target="_blank">Link🔗</a></p>
 
 ### Contact 📫
 You can find me on:
