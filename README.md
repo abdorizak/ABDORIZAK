@@ -17,6 +17,5 @@
 
 ### Contact 📫
 You can find me on:
-- [Linkedin](https://www.linkedin.com/in/abdorizak-abdalla-6a221910a/)
-- [Email](mailto:cabdirizaaqyare12@gmail.com)
-- [Website](https://abdorizak.com)
+<p><a href="mailto:cabdirizaaqyare12@gmail.com" target="_blank"><img alt="E-Mail" src="https://img.shields.io/badge/Gmail-%2312100E.svg?&style=for-the-badge&logo=Gmail&logoColor=white" /></a> <a href="https://twitter.com/abdorizak" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="www.linkedin.com/in/abdorizak" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</p>
