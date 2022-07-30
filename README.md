@@ -6,14 +6,8 @@
 ### learning and Practice 😇
 
 # About Me 😁
----
-- 🔭 I’m currently working on ... Swift UIkit and SwiftUI and Flutter.
-- 👯 I’m looking to collaborate on ... iOS Developers
-- 💬 Ask me about ... Swift, Flutter
-- 📫 How to reach me: ... [Twitter](twitter.com/abdorizak3)
-- 😄 NickName: ... [X Man](facebook.com/abdorizak3)
-- ⚡ Fun fact: ...
--->
+<p>I'm a iOS Engineer with a passion for developing apps. I’m a hard worker with good communication skills who works effectively in a team and has the ability to meet deadlines and able to work under stressful working environment, honest, friendly and highly motivated person with good productivity for the organization.</p>
+For more information you can find my websitet </br> <a href="https://abdorizak.com" target="_blank">Link🔗</a>
 
 ### Contact 📫
 You can find me on:
