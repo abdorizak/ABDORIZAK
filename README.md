@@ -8,7 +8,7 @@
 # About Me 😁
 <p>Abdorizak is an iOS Developer with a passion for developing apps, and Open Sources, a hard worker with good communication skills who works effectively in a team and has the ability to meet deadlines and able to work under stressful working environment, honest, friendly and highly motivated person with good productivity for the organization.</p>
 
-### 📈 GitHub Stats
+### 📈 GitHub Status
 
 <p align="center">
   <table>
