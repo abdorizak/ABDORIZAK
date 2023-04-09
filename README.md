@@ -1,11 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey%20I%27m%20X%20MAN%F0%9F%8C%A9&animation=twinkling&fontSize=40)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2320A121&lines=ABDORIZAK+AKA+XMAN)
-### Hey <img src="https://github.com/abdorizak/ABDORIZAK/blob/main/Assets/Hi.gif" width="30">, I'm [ABDORIZAK](https://www.abdorizak.com/) 🇸🇴
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2320A121&lines=ABDIRIZAK+AKA+XMAN)
+### Hey <img src="https://github.com/abdorizak/ABDORIZAK/blob/main/Assets/Hi.gif" width="30">, I'm [ABDORIZAK](https://www.abdorizak.dev/) 🇸🇴
 
 ### learning and Practice 😇
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devangtomar&label=Profile%20views&color=0e75b6&style=flat" alt="devangtomar" /> </p>
 
 # About Me 😁
+
 <p>Abdorizak is an iOS Developer with a passion for developing apps, and Open Sources, a hard worker with good communication skills who works effectively in a team and has the ability to meet deadlines and able to work under stressful working environment, honest, friendly and highly motivated person with good productivity for the organization.</p>
 
 ### 📈 GitHub Status
